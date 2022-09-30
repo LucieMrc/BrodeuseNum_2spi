@@ -1,5 +1,7 @@
 # BrodeuseNum_2spi
 
+**-------En construction-------**
+
 Pré-requis : être à l'atelier numérique.
 
 Le tissu : moins de 1mm d'épaisseur, attention si élastique ou trop fin.
@@ -51,7 +53,7 @@ Pour faire passer le fil dans le chat de l'aiguille, appuyer sur le bouton `Pass
 Deux petits crochets se calent autour l'aiguille, il faut tenir le fil tendu sous les deux en rappuyant sur le bouton pour que les crochets viennent tirer le fil et passer le fil.
 ![passage du fil dans l'aiguille'](./images/img1_9.jpg)
 
-Si un de ses étapes a été oublié ou fait dans le mauvais sens, le fil être trop ou pas assez tendu, ou se casser.
+Si un de ses étapes a été oublié ou fait dans le mauvais sens, le fil peux être trop ou pas assez tendu, ou se casser.
 
 ## 4. Mettre le cadre dans la machine
 
@@ -72,8 +74,16 @@ Appuyer sur le bouton
 
 ## A. Placer la canette
 
-Placer la canette avec le fil qui tourne dans le sens du temps dans le 
 **Attention : la machine doit être éteinte !**
+
+Placer la canette avec le fil qui tourne dans le sens du temps dans le recepteur à canette.
+
+//photo
+
+Caler la canette jusqu'au clic dans l'emplacement, et refermer.
+
+//photo
+
 
 ## B. Tendre ou détendre le fil du dessus
 
