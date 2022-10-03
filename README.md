@@ -113,12 +113,41 @@ Appuyer sur le bouton de verrouillage sur l'écran (rouge = verrouillé).
 
 Appuyer sur le bouton pour lancer la machine.
 
+// photo
+
 Pour arrêter la broderie en cours, rappuyer sur le bouton. 
 
 # Si besoin
 
+## A. Créer un motif .pes avec le logiciel PE Design
 
-## A. Placer la canette
+Ouvrir le logiciel PE Design.
+![Premier cadre'](./images/capture1.png)
+
+Aller dans l'onglet `Image`.
+![Premier cadre'](./images/capture2.png)
+
+Cliquer sur `Ouvrir` > `du Fichier...` et sélectionner l'image choisie.
+![Premier cadre'](./images/capture3.png)
+
+Rogner le motif si besoin, puis cliquer sur `Suivant` pour lancer le calcul de conversion de l'image en motif de broderie.
+![Premier cadre'](./images/capture4.png)
+
+Après le premier calcul de conversion, on peux changer la sensibilité de la réduction des parasites et de la segmentation pour affiner le rendu. On peux également décider du nombre de couleur max (ici : 2, le tracé et le fond), puis décider de supprimer des couleurs en cliquant dessus dans la partie `Omettre les couleurs des parties`. Ici j'ai supprimé la couleur du fond, qui est barrée.
+![Premier cadre'](./images/capture6.png)
+
+Redimensionner le motif afin qu'il rentre dans le cadre blanc.
+![Premier cadre'](./images/capture7.png)
+![Premier cadre'](./images/capture8.png)
+
+Pour exporter, cliquer le logo du logiciel en haut à gauche, puis `Enregistrer sous...` .
+![Premier cadre'](./images/capture9.png)
+
+Enregistrer en format .pes.
+![Premier cadre'](./images/capture10.png)
+
+
+## B. Placer la canette
 
 **Attention : la machine doit être éteinte !**
 
@@ -131,9 +160,11 @@ Caler la canette jusqu'au clic dans l'emplacement, et refermer.
 //photo
 
 
-## B. Tendre ou détendre le fil du dessus
+## C. Tendre ou détendre le fil du dessus
 
 Le fil du dessus est trop lâche si la broderie a l'air trop lâche, ou si il boucle et fait des noeuds en début de broderie (les boucles s'emmêlent > les noeuds cassent le fil > la brodeuse s'arrête)
 Il est trop tendu si on voit trop le fil du dessous sur la broderie, ou il se casse pendant la broderie (la brodeuse s'arrête).
 
 On peux tendre ou détendre le fil en tournant la petite molette en haut au dessus de la machine ainsi que la grosse molette de tension du fil juste en dessous de la petite molette en question.
+
+// photo des molettes
