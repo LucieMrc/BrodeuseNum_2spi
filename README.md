@@ -8,15 +8,27 @@ Le tissu : moins de 1mm d'épaisseur, attention si élastique ou trop fin.
 
 ## 1. Placer le tissu sur le cadre
 
-Prendre la taille de cadre adaptée au motif choisi, le cadre par défaut est celui qui permet de broder en 10*10cm.
+Prendre la taille de cadre adaptée au motif choisi, le cadre par défaut est celui qui permet de broder en 10*10cm, et desserrer la vis.
 
-Desserer la vis sur la grande partie du cadre.
+![Premier cadre'](./images/img0_1.jpg)
 
-Placer la petite partie du cadre sur la table
+Mettre le tissu dessus.
 
-Mettre le tissu dessus, le plus droit et tendu possible.
+![Premier cadre'](./images/img0_2.jpg)
 
-Poser par dessus la grande partie du cadre, tendre le tissu à nouveau, et resserer la vis en gardant le tissu tendu au fur et à mesure.
+Poser par dessus la grande partie du cadre, et faire en sorte que le tissu se coince le plus droit et tendu possible en tirant sur la partie extérieur du tissu doucement.
+
+![Premier cadre'](./images/img0_3.jpg)
+![Premier cadre'](./images/img0_4.jpg)
+
+Faire en sorte que les deux cadres soient bien calés l'un contre l'autre pour que le tissu soit bien tendu sur le dessous de la grande partie du cadre.
+
+![Premier cadre'](./images/img0_5.jpg)
+![Premier cadre'](./images/img0_6.jpg)
+
+Resserrer la vis en gardant le tissu tendu au fur et à mesure.
+
+![Premier cadre'](./images/img0_7.jpg)
 
 ## 3. Passer le fil
 
@@ -47,6 +59,7 @@ Faire passer le fil dans le petit bras en métal à droite de l'aiguille, en ten
 ![passage du fil à coté de l'aiguille'](./images/img1_8.jpg)
 
 **Ici on allume la machine**
+
 Pour faire passer le fil dans le chat de l'aiguille, appuyer sur le bouton `Passage du fil` tout à droite sur l'interface de la machine.
 ![passage du fil dans l'aiguille'](./images/img1_10.jpg)
 
@@ -57,17 +70,50 @@ Si un de ses étapes a été oublié ou fait dans le mauvais sens, le fil peux �
 
 ## 4. Mettre le cadre dans la machine
 
-## 5. Choisir le motif
+Placer le cadre avec la partie tendue du tissu sur le dessous.
+![Premier cadre'](./images/img0_8.jpg)
 
-Vérifier que le motif rentre dans le cadre en pointillé
+Faire glisser les bras du cadre sous les parties en métal des bras de la machine.
+![Premier cadre'](./images/img0_9.jpg)
 
-Le redimensionner et le déplacer avec les boutons
+Pousser le cadre jusqu'à ce que les deux cotés soient enclenchés et que les boutons en métal sur la machine soient dans les trous des bras du cadre.
+
+![Premier cadre'](./images/img0_11.jpg)
+![Premier cadre'](./images/img0_13.jpg)
+
+## 5. Ajouter un motif en USB
+
+**Après avoir créé le motif en .pes sur le logiciel PE Design**
+
+Placer la clef USB dans la machine, sur le coté de l'interface.
+
+![Premier cadre'](./images/img0_14.jpg)
+
+Entrer dans le menu USB.
+
+![Premier cadre'](./images/img0_15.jpg)
+
+Sélectionner le motif à imprimer.
+
+![Premier cadre'](./images/img0_16.jpg)
+
+Cliquer sur `Régler` pour choisir la taille et la position.
+
+![Premier cadre'](./images/img0_17.jpg)
+
+Vérifier que le motif rentre dans le cadre en pointillé, le redimensionner et le déplacer avec les boutons si besoin, puis cliquer sur `Broder`.
+
+![Premier cadre'](./images/img0_18.jpg)
 
 ## 6. Lancer la broderie
 
-Déverrouiller sur l'écran
+Appuyer sur le bouton de verrouillage sur l'écran (rouge = verrouillé).
 
-Appuyer sur le bouton
+// photo
+
+Appuyer sur le bouton pour lancer la machine.
+
+Pour arrêter la broderie en cours, rappuyer sur le bouton. 
 
 # Si besoin
 
