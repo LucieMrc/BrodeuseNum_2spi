@@ -1,7 +1,5 @@
 # BrodeuseNum_2spi
 
-**-------En construction-------**
-
 Pré-requis : être à l'atelier numérique.
 
 Le tissu : moins de 1mm d'épaisseur, attention si élastique ou trop fin.
@@ -109,13 +107,13 @@ Vérifier que le motif rentre dans le cadre en pointillé, le redimensionner et 
 
 Appuyer sur le bouton de verrouillage sur l'écran (rouge = verrouillé).
 
-// photo
+<!--//photo-->
 
-Appuyer sur le bouton pour lancer la machine.
+Appuyer sur le bouton ⬆️ pour lancer la machine.
 
-// photo
+<!--//photo-->
 
-Pour arrêter la broderie en cours, rappuyer sur le bouton. 
+Pour arrêter la broderie en cours, rappuyer sur le bouton ⬆️. 
 
 # Si besoin
 
@@ -153,11 +151,11 @@ Enregistrer en format .pes.
 
 Placer la canette avec le fil qui tourne dans le sens du temps dans le recepteur à canette.
 
-//photo
+<!--//photo-->
 
 Caler la canette jusqu'au clic dans l'emplacement, et refermer.
 
-//photo
+<!--//photo-->
 
 
 ## C. Tendre ou détendre le fil du dessus
@@ -167,4 +165,4 @@ Il est trop tendu si on voit trop le fil du dessous sur la broderie, ou il se ca
 
 On peux tendre ou détendre le fil en tournant la petite molette en haut au dessus de la machine ainsi que la grosse molette de tension du fil juste en dessous de la petite molette en question.
 
-// photo des molettes
+<!--//photo des molettes-->
