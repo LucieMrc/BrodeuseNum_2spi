@@ -33,35 +33,45 @@ Resserrer la vis en gardant le tissu tendu au fur et à mesure.
 **Attention : la machine doit être éteinte !**
 
 Mettre la bobine sur le premier bâton, et passer le fil dans le trou 1.
+
 ![passage du fil dans le premier trou'](./images/img1_1.jpg)
 
 Passer ensuite le fil dans le trou 2, sur le dessus de la machine, et le faire passer dans le petit angle à coté de la petite molette
+
 ![passage du fil dans le second trou'](./images/img1_2.jpg)
 
 En suivant le schéma, faire passer le fil autour de la molette de tension du fil, dans le sens des aiguilles d'une montre.
+
 ![passage du fil dans la molette'](./images/img1_3.jpg)
 
 Passer le fil sous le morceau en métal de la seconde petite molette.
+
 ![passage du fil dans la dernière molette'](./images/img1_4.jpg)
 
 Descendre le fil le long de la fente de droite, passer sous la partie 4 avec la flèche, et remonter dans la fente de gauche.
+
 ![passage du fil dans les fentes'](./images/img1_5.jpg)
 
 Passer le fil de droite à gauche dans le trou 5, et redescendre la fente de gauche.
+
 ![passage du fil dans le trou devant'](./images/img1_6.jpg)
 
 Passer le fil dans le trou 6 sur l'avant de la machine.
+
 ![passage du fil dans le dernier trou'](./images/img1_7.jpg)
 
 Faire passer le fil dans le petit bras en métal à droite de l'aiguille, en tendant le fil le long de l'aiguille et en utilisant le petit outil pour le pousser derrière le bras.
+
 ![passage du fil à coté de l'aiguille'](./images/img1_8.jpg)
 
 **Ici on allume la machine**
 
 Pour faire passer le fil dans le chat de l'aiguille, appuyer sur le bouton `Passage du fil` tout à droite sur l'interface de la machine.
+
 ![passage du fil dans l'aiguille'](./images/img1_10.jpg)
 
 Deux petits crochets se calent autour l'aiguille, il faut tenir le fil tendu sous les deux en rappuyant sur le bouton pour que les crochets viennent tirer le fil et passer le fil.
+
 ![passage du fil dans l'aiguille'](./images/img1_9.jpg)
 
 Si un de ses étapes a été oublié ou fait dans le mauvais sens, le fil peux être trop ou pas assez tendu, ou se casser.
@@ -69,9 +79,11 @@ Si un de ses étapes a été oublié ou fait dans le mauvais sens, le fil peux �
 ## 4. Mettre le cadre dans la machine
 
 Placer le cadre avec la partie tendue du tissu sur le dessous.
+
 ![Premier cadre'](./images/img0_8.jpg)
 
 Faire glisser les bras du cadre sous les parties en métal des bras de la machine.
+
 ![Premier cadre'](./images/img0_9.jpg)
 
 Pousser le cadre jusqu'à ce que les deux cotés soient enclenchés et que les boutons en métal sur la machine soient dans les trous des bras du cadre.
@@ -120,28 +132,32 @@ Pour arrêter la broderie en cours, rappuyer sur le bouton ⬆️.
 ## A. Créer un motif .pes avec le logiciel PE Design
 
 Ouvrir le logiciel PE Design.
+
 ![Premier cadre'](./images/Capture1.png)
 
-Aller dans l'onglet `Image`.
+Aller dans l'onglet `Image` puis cliquer sur `Piqûre automatique` et sélectionner l'image choisie.
+
 ![Premier cadre'](./images/Capture2.png)
 
-Cliquer sur `Ouvrir` > `du Fichier...` et sélectionner l'image choisie.
-![Premier cadre'](./images/Capture3.png)
-
 Rogner le motif si besoin, puis cliquer sur `Suivant` pour lancer le calcul de conversion de l'image en motif de broderie.
+
 ![Premier cadre'](./images/Capture4.png)
 
 Après le premier calcul de conversion, on peux changer la sensibilité de la réduction des parasites et de la segmentation pour affiner le rendu. On peux également décider du nombre de couleur max (ici : 2, le tracé et le fond), puis décider de supprimer des couleurs en cliquant dessus dans la partie `Omettre les couleurs des parties`. Ici j'ai supprimé la couleur du fond, qui est barrée.
+
 ![Premier cadre'](./images/Capture6.png)
 
 Redimensionner le motif afin qu'il rentre dans le cadre blanc.
+
 ![Premier cadre'](./images/Capture7.png)
 ![Premier cadre'](./images/Capture8.png)
 
 Pour exporter, cliquer le logo du logiciel en haut à gauche, puis `Enregistrer sous...` .
+
 ![Premier cadre'](./images/Capture9.png)
 
 Enregistrer en format .pes.
+
 ![Premier cadre'](./images/Capture10.png)
 
 
