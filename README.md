@@ -129,7 +129,34 @@ Pour arrêter la broderie en cours, rappuyer sur le bouton ⬆️.
 
 # Si besoin
 
-## A. Créer un motif .pes avec le logiciel PE Design
+## A. Créer un motif .pes avec Inkscape et Ink/Stitch
+
+Ouvrir l'image (png, jpeg, svg) avec Inkscape.
+
+Si l'image n'est pas un svg, passez par l'étape `Chemin` > `Vectoriser un objet matriciel`.
+
+![Premier cadre'](./images/img3_1.png)
+
+Cliquer `Appliquer` dans la fenêtre qui s'ouvre, puis ne garder que la forme vectorisée (supprimer l'image en dessous).
+
+![Premier cadre'](./images/img3_2.png)
+
+Sélectionner la forme vectorisée et aller dans `Extensions` > `Ink/Stitch` > `Paramètres`.
+
+![Premier cadre'](./images/img3_3.png)
+
+Modifier les réglages si besoin, et cliquer sur `Apply and quit`.
+
+![Premier cadre'](./images/img3_4.png)
+
+Pour exporter en fichier .pes, simplement enregistrer le fichier.
+
+![Premier cadre'](./images/img3_5.png)
+![Premier cadre'](./images/img3_6.png)
+
+Si besoin, le repasser par PE Design pour adapter la taille.
+
+## B. Créer un motif .pes avec le logiciel PE Design
 
 Ouvrir le logiciel PE Design.
 
@@ -161,7 +188,7 @@ Enregistrer en format .pes.
 ![Premier cadre'](./images/Capture10.png)
 
 
-## B. Placer la canette
+## C. Placer la canette
 
 **Attention : la machine doit être éteinte !**
 
@@ -174,11 +201,17 @@ Caler la canette jusqu'au clic dans l'emplacement, et refermer.
 <!--//photo-->
 
 
-## C. Tendre ou détendre le fil du dessus
+## D. Tendre ou détendre le fil du dessus
 
 Le fil du dessus est trop lâche si la broderie a l'air trop lâche, ou si il boucle et fait des noeuds en début de broderie (les boucles s'emmêlent > les noeuds cassent le fil > la brodeuse s'arrête)
 Il est trop tendu si on voit trop le fil du dessous sur la broderie, ou il se casse pendant la broderie (la brodeuse s'arrête).
 
 On peux tendre ou détendre le fil en tournant la petite molette en haut au dessus de la machine ainsi que la grosse molette de tension du fil juste en dessous de la petite molette en question.
 
-<!--//photo des molettes-->
+Tendre le fil : sens des aiguilles d'une montre :
+
+![Premier cadre'](./images/img2_1.jpg)
+
+Détendre le fil : sens contraire des aiguilles d'une montre :
+
+![Premier cadre'](./images/img2_2.jpg)
