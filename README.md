@@ -192,7 +192,7 @@ Enregistrer en format .pes.
 
 **Attention : la machine doit être éteinte !**
 
-Placer la canette avec le fil qui tourne dans le sens du temps dans le recepteur à canette.
+Placer la canette avec le fil qui tourne dans le sens horaire dans le recepteur à canette.
 
 <!--//photo-->
 
