@@ -1,5 +1,7 @@
 # BrodeuseNum_2spi
 
+**Comment utiliser plus ou moins en autonomie la brodeuse numérique.**
+
 Pré-requis : être à l'atelier numérique.
 
 Le tissu : moins de 1mm d'épaisseur, attention si élastique ou trop fin.
@@ -131,6 +133,8 @@ Pour arrêter la broderie en cours, rappuyer sur le bouton ⬆️.
 
 ## A. Créer un motif .pes avec Inkscape et Ink/Stitch
 
+Installer [Inkscape](https://inkscape.org) et l'extension [Ink/Stitch](https://inkstitch.org/fr/).
+
 Ouvrir l'image (png, jpeg, svg) avec Inkscape.
 
 Si l'image n'est pas un svg, passez par l'étape `Chemin` > `Vectoriser un objet matriciel`.
@@ -215,3 +219,13 @@ Tendre le fil : sens des aiguilles d'une montre :
 Détendre le fil : sens contraire des aiguilles d'une montre :
 
 ![Premier cadre'](./images/img2_2.jpg)
+
+<!--//photo de broderies foirées-->
+
+# Pour aller + loin
+
+Le [manuel de la machine Brother de l'atelier](https://download.brother.com/welcome/doch100509/vr_dom01eu_fr.pdf).
+
+Liste de [tutoriel de broderie machine](https://edutechwiki.unige.ch/fr/Catégorie:Guide_de_tutoriels_de_broderie_machine).
+
+La BD [The Dancing Plague](https://www.selfmadehero.com/books/the-dancing-plague).
