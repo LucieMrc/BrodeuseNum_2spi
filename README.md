@@ -1,6 +1,6 @@
 # BrodeuseNum_2spi
 
-**Comment utiliser plus ou moins en autonomie la brodeuse numérique.**
+**Ou comment utiliser plus ou moins en autonomie la brodeuse numérique.**
 
 Pré-requis : être à l'atelier numérique.
 
