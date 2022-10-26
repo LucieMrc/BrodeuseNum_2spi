@@ -78,6 +78,10 @@ Deux petits crochets se calent autour l'aiguille, il faut tenir le fil tendu sou
 
 Si un de ses étapes a été oublié ou fait dans le mauvais sens, le fil peux être trop ou pas assez tendu, ou se casser.
 
+Pour changer de couleurs le fil, le plus simple est de sortir le fil du chat de l'aiguille, puis de couper en sortie de la bobine, nouer le fil qui passe dans la machine au fil de la nouvelle bobine, et tirer sur le fil pour le faire passer.
+
+<!-- photo !!-->
+
 ## 4. Mettre le cadre dans la machine
 
 Placer le cadre avec la partie tendue du tissu sur le dessous.
@@ -160,7 +164,7 @@ Pour exporter en fichier .pes, simplement enregistrer le fichier.
 
 Si besoin, le repasser par PE Design pour adapter la taille.
 
-## B. Créer un motif .pes avec le logiciel PE Design
+<!--## B. Créer un motif .pes avec le logiciel PE Design
 
 Ouvrir le logiciel PE Design.
 
@@ -189,10 +193,10 @@ Pour exporter, cliquer le logo du logiciel en haut à gauche, puis `Enregistrer 
 
 Enregistrer en format .pes.
 
-![Premier cadre'](./images/Capture10.png)
+![Premier cadre'](./images/Capture10.png) -->
 
 
-## C. Placer la canette
+## B. Placer la canette
 
 **Attention : la machine doit être éteinte !**
 
@@ -205,7 +209,7 @@ Caler la canette jusqu'au clic dans l'emplacement, et refermer.
 <!--//photo-->
 
 
-## D. Tendre ou détendre le fil du dessus
+## C. Tendre ou détendre le fil du dessus
 
 Le fil du dessus est trop lâche si la broderie a l'air trop lâche, ou si il boucle et fait des noeuds en début de broderie (les boucles s'emmêlent > les noeuds cassent le fil > la brodeuse s'arrête)
 Il est trop tendu si on voit trop le fil du dessous sur la broderie, ou il se casse pendant la broderie (la brodeuse s'arrête).
