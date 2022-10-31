@@ -30,7 +30,7 @@ Resserrer la vis en gardant le tissu tendu au fur et à mesure.
 
 ![Premier cadre'](./images/img0_7.jpg)
 
-## 3. Passer le fil
+## 2. Passer le fil
 
 **Attention : la machine doit être éteinte !**
 
@@ -82,7 +82,7 @@ Pour changer de couleurs le fil, le plus simple est de sortir le fil du chat de 
 
 <!-- photo !!-->
 
-## 4. Mettre le cadre dans la machine
+## 3. Mettre le cadre dans la machine
 
 Placer le cadre avec la partie tendue du tissu sur le dessous.
 
@@ -97,9 +97,9 @@ Pousser le cadre jusqu'à ce que les deux cotés soient enclenchés et que les b
 ![Premier cadre'](./images/img0_11.jpg)
 ![Premier cadre'](./images/img0_13.jpg)
 
-## 5. Ajouter un motif en USB
+## 4. Ajouter un motif en USB
 
-**Après avoir créé le motif en .pes sur le logiciel PE Design**
+**Après avoir créé le motif en .pes**
 
 Placer la clef USB dans la machine, sur le coté de l'interface.
 
@@ -109,7 +109,7 @@ Entrer dans le menu USB.
 
 ![Premier cadre'](./images/img0_15.jpg)
 
-Sélectionner le motif à imprimer.
+Sélectionner le motif à broder.
 
 ![Premier cadre'](./images/img0_16.jpg)
 
@@ -121,7 +121,7 @@ Vérifier que le motif rentre dans le cadre en pointillé, le redimensionner et 
 
 ![Premier cadre'](./images/img0_18.jpg)
 
-## 6. Lancer la broderie
+## 5. Lancer la broderie
 
 Appuyer sur le bouton de verrouillage sur l'écran (rouge = verrouillé).
 
@@ -230,6 +230,6 @@ Détendre le fil : sens contraire des aiguilles d'une montre :
 
 Le [manuel de la machine Brother de l'atelier](https://download.brother.com/welcome/doch100509/vr_dom01eu_fr.pdf).
 
-Liste de [tutoriel de broderie machine](https://edutechwiki.unige.ch/fr/Catégorie:Guide_de_tutoriels_de_broderie_machine).
+Liste de [tutoriels de broderie machine](https://edutechwiki.unige.ch/fr/Catégorie:Guide_de_tutoriels_de_broderie_machine).
 
 La BD [The Dancing Plague](https://www.selfmadehero.com/books/the-dancing-plague).
