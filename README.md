@@ -30,7 +30,140 @@ Resserrer la vis en gardant le tissu tendu au fur et à mesure.
 
 ![Premier cadre'](./images/img0_7.jpg)
 
-## 2. Passer le fil
+## 2. Mettre le cadre dans la machine
+
+Placer le cadre avec la partie tendue du tissu sur le dessous.
+
+![Premier cadre'](./images/img0_8.jpg)
+
+Faire glisser les bras du cadre sous les parties en métal des bras de la machine.
+
+![Premier cadre'](./images/img0_9.jpg)
+
+Pousser le cadre jusqu'à ce que les deux cotés soient enclenchés et que les boutons en métal sur la machine soient dans les trous des bras du cadre.
+
+![Premier cadre'](./images/img0_11.jpg)
+![Premier cadre'](./images/img0_13.jpg)
+
+## 3. Ajouter un motif en USB
+
+**Après avoir créé le motif en .pes**
+
+Placer la clef USB dans la machine, sur le coté de l'interface.
+
+![Premier cadre'](./images/img0_14.jpg)
+
+Entrer dans le menu USB.
+
+![Premier cadre'](./images/img0_15.jpg)
+
+Sélectionner le motif à broder.
+
+![Premier cadre'](./images/img0_16.jpg)
+
+Cliquer sur `Régler` pour choisir la taille et la position.
+
+![Premier cadre'](./images/img0_17.jpg)
+
+Vérifier que le motif rentre dans le cadre en pointillé, le redimensionner et le déplacer avec les boutons si besoin, puis cliquer sur `Broder`.
+
+![Premier cadre'](./images/img0_18.jpg)
+
+## 4. Lancer la broderie
+
+Appuyer sur le bouton de verrouillage sur l'écran (rouge = verrouillé).
+
+<!--//photo-->
+
+Appuyer sur le bouton ⬆️ pour lancer la machine.
+
+<!--//photo-->
+
+Pour arrêter la broderie en cours, rappuyer sur le bouton ⬆️. 
+
+# Si besoin
+
+## A. Créer un motif .pes avec Inkscape et Ink/Stitch
+
+Installer [Inkscape](https://inkscape.org) et l'extension [Ink/Stitch](https://inkstitch.org/fr/).
+
+Ouvrir l'image (png, jpeg, svg) avec Inkscape.
+
+Si l'image n'est pas un svg, passez par l'étape `Chemin` > `Vectoriser un objet matriciel`.
+
+![Premier cadre'](./images/img3_1.png)
+
+Cliquer `Appliquer` dans la fenêtre qui s'ouvre, puis ne garder que la forme vectorisée (supprimer l'image en dessous).
+
+![Premier cadre'](./images/img3_2.png)
+
+Sélectionner la forme vectorisée et aller dans `Extensions` > `Ink/Stitch` > `Paramètres`.
+
+![Premier cadre'](./images/img3_3.png)
+
+Modifier les réglages si besoin, et cliquer sur `Apply and quit`.
+
+![Premier cadre'](./images/img3_4.png)
+
+Avant d'exporter, on peux prévisualiser la broderie en allant dans `Extensions` > `Ink/Stitch` > `Visualiser et exporter` > `Simulateur/ Aperçu réaliste`.
+
+![Premier cadre'](./images/img3_10.png)
+
+Pour exporter en fichier .pes, simplement enregistrer le fichier.
+
+![Premier cadre'](./images/img3_5.png)
+![Premier cadre'](./images/img3_6.png)
+
+Pour adapter la taille de l'image à la taille de la broderie, mettre la taille en haut en cm ou mm :
+
+<!--Si besoin, le repasser par PE Design pour adapter la taille.-->
+
+### Pour faire un motif avec plusieurs couleurs :
+
+Importer un svg avec plusieurs couleurs dans Inkscape, et commencer par faire faisant `Chemin` > `Objet en chemin`.
+Ensuite, faire la même manipulation que pour une couleur : `Extensions` > `Ink/Stitch` > `Paramètres`, modifier les réglages si besoin, et cliquer sur `Apply and quit`, puis enregistrer en .pes.
+
+![Premier cadre'](./images/homographie.svg)
+*Le svg*
+
+![Premier cadre'](./images/img3_8.png)
+*La prévisualisation de la broderie dans Inkstitch*
+
+![Premier cadre'](./images/img3_9.jpg)
+*La broderie : rendu pas terrible, le tissu a un maillage trop gros par rapport aux points du motif*
+
+<!--## B. Créer un motif .pes avec le logiciel PE Design
+
+Ouvrir le logiciel PE Design.
+
+![Premier cadre'](./images/Capture1.png)
+
+Aller dans l'onglet `Image` puis cliquer sur `Piqûre automatique` et sélectionner l'image choisie.
+
+![Premier cadre'](./images/Capture2.png)
+
+Rogner le motif si besoin, puis cliquer sur `Suivant` pour lancer le calcul de conversion de l'image en motif de broderie.
+
+![Premier cadre'](./images/Capture4.png)
+
+Après le premier calcul de conversion, on peux changer la sensibilité de la réduction des parasites et de la segmentation pour affiner le rendu. On peux également décider du nombre de couleur max (ici : 2, le tracé et le fond), puis décider de supprimer des couleurs en cliquant dessus dans la partie `Omettre les couleurs des parties`. Ici j'ai supprimé la couleur du fond, qui est barrée.
+
+![Premier cadre'](./images/Capture6.png)
+
+Redimensionner le motif afin qu'il rentre dans le cadre blanc.
+
+![Premier cadre'](./images/Capture7.png)
+![Premier cadre'](./images/Capture8.png)
+
+Pour exporter, cliquer le logo du logiciel en haut à gauche, puis `Enregistrer sous...` .
+
+![Premier cadre'](./images/Capture9.png)
+
+Enregistrer en format .pes.
+
+![Premier cadre'](./images/Capture10.png) -->
+
+## B. Passer le fil
 
 **Attention : la machine doit être éteinte !**
 
@@ -82,121 +215,7 @@ Pour changer de couleurs le fil, le plus simple est de sortir le fil du chat de 
 
 <!-- photo !!-->
 
-## 3. Mettre le cadre dans la machine
-
-Placer le cadre avec la partie tendue du tissu sur le dessous.
-
-![Premier cadre'](./images/img0_8.jpg)
-
-Faire glisser les bras du cadre sous les parties en métal des bras de la machine.
-
-![Premier cadre'](./images/img0_9.jpg)
-
-Pousser le cadre jusqu'à ce que les deux cotés soient enclenchés et que les boutons en métal sur la machine soient dans les trous des bras du cadre.
-
-![Premier cadre'](./images/img0_11.jpg)
-![Premier cadre'](./images/img0_13.jpg)
-
-## 4. Ajouter un motif en USB
-
-**Après avoir créé le motif en .pes**
-
-Placer la clef USB dans la machine, sur le coté de l'interface.
-
-![Premier cadre'](./images/img0_14.jpg)
-
-Entrer dans le menu USB.
-
-![Premier cadre'](./images/img0_15.jpg)
-
-Sélectionner le motif à broder.
-
-![Premier cadre'](./images/img0_16.jpg)
-
-Cliquer sur `Régler` pour choisir la taille et la position.
-
-![Premier cadre'](./images/img0_17.jpg)
-
-Vérifier que le motif rentre dans le cadre en pointillé, le redimensionner et le déplacer avec les boutons si besoin, puis cliquer sur `Broder`.
-
-![Premier cadre'](./images/img0_18.jpg)
-
-## 5. Lancer la broderie
-
-Appuyer sur le bouton de verrouillage sur l'écran (rouge = verrouillé).
-
-<!--//photo-->
-
-Appuyer sur le bouton ⬆️ pour lancer la machine.
-
-<!--//photo-->
-
-Pour arrêter la broderie en cours, rappuyer sur le bouton ⬆️. 
-
-# Si besoin
-
-## A. Créer un motif .pes avec Inkscape et Ink/Stitch
-
-Installer [Inkscape](https://inkscape.org) et l'extension [Ink/Stitch](https://inkstitch.org/fr/).
-
-Ouvrir l'image (png, jpeg, svg) avec Inkscape.
-
-Si l'image n'est pas un svg, passez par l'étape `Chemin` > `Vectoriser un objet matriciel`.
-
-![Premier cadre'](./images/img3_1.png)
-
-Cliquer `Appliquer` dans la fenêtre qui s'ouvre, puis ne garder que la forme vectorisée (supprimer l'image en dessous).
-
-![Premier cadre'](./images/img3_2.png)
-
-Sélectionner la forme vectorisée et aller dans `Extensions` > `Ink/Stitch` > `Paramètres`.
-
-![Premier cadre'](./images/img3_3.png)
-
-Modifier les réglages si besoin, et cliquer sur `Apply and quit`.
-
-![Premier cadre'](./images/img3_4.png)
-
-Pour exporter en fichier .pes, simplement enregistrer le fichier.
-
-![Premier cadre'](./images/img3_5.png)
-![Premier cadre'](./images/img3_6.png)
-
-Si besoin, le repasser par PE Design pour adapter la taille.
-
-<!--## B. Créer un motif .pes avec le logiciel PE Design
-
-Ouvrir le logiciel PE Design.
-
-![Premier cadre'](./images/Capture1.png)
-
-Aller dans l'onglet `Image` puis cliquer sur `Piqûre automatique` et sélectionner l'image choisie.
-
-![Premier cadre'](./images/Capture2.png)
-
-Rogner le motif si besoin, puis cliquer sur `Suivant` pour lancer le calcul de conversion de l'image en motif de broderie.
-
-![Premier cadre'](./images/Capture4.png)
-
-Après le premier calcul de conversion, on peux changer la sensibilité de la réduction des parasites et de la segmentation pour affiner le rendu. On peux également décider du nombre de couleur max (ici : 2, le tracé et le fond), puis décider de supprimer des couleurs en cliquant dessus dans la partie `Omettre les couleurs des parties`. Ici j'ai supprimé la couleur du fond, qui est barrée.
-
-![Premier cadre'](./images/Capture6.png)
-
-Redimensionner le motif afin qu'il rentre dans le cadre blanc.
-
-![Premier cadre'](./images/Capture7.png)
-![Premier cadre'](./images/Capture8.png)
-
-Pour exporter, cliquer le logo du logiciel en haut à gauche, puis `Enregistrer sous...` .
-
-![Premier cadre'](./images/Capture9.png)
-
-Enregistrer en format .pes.
-
-![Premier cadre'](./images/Capture10.png) -->
-
-
-## B. Placer la canette
+## C. Placer la canette
 
 **Attention : la machine doit être éteinte !**
 
@@ -209,7 +228,7 @@ Caler la canette jusqu'au clic dans l'emplacement, et refermer.
 <!--//photo-->
 
 
-## C. Tendre ou détendre le fil du dessus
+## D. Tendre ou détendre le fil du dessus
 
 Le fil du dessus est trop lâche si la broderie a l'air trop lâche, ou si il boucle et fait des noeuds en début de broderie (les boucles s'emmêlent > les noeuds cassent le fil > la brodeuse s'arrête)
 Il est trop tendu si on voit trop le fil du dessous sur la broderie, ou il se casse pendant la broderie (la brodeuse s'arrête).
