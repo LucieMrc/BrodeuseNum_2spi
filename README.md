@@ -1,4 +1,5 @@
 # BrodeuseNum_2spi
+*[english version](https://github.com/LucieMrc/EmbroideryMachine_sp33d)*
 
 **Ou comment utiliser plus ou moins en autonomie la brodeuse numérique.**
 
