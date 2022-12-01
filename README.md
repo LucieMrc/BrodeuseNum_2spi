@@ -65,7 +65,7 @@ Cliquer sur `Régler` pour choisir la taille et la position.
 
 ![Premier cadre'](./images/img0_17.jpg)
 
-Vérifier que le motif rentre dans le cadre en pointillé, le redimensionner et le déplacer avec les boutons si besoin, puis cliquer sur `Broder`.
+Vérifier que le motif rentre dans le cadre en pointillé, le redimensionner avec le premier bouton à gauche carré, et le déplacer avec les boutons flèches à droite si besoin, puis cliquer sur `Broder`.
 
 ![Premier cadre'](./images/img0_18.jpg)
 
