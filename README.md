@@ -225,20 +225,73 @@ Pour changer de couleurs le fil, le plus simple est de sortir le fil du chat de 
 
 <!-- photo !!-->
 
-## C. Placer la canette
+## C. Remplir la canette
+
+Récuperer la canette sous dans la petite trappe en dessous de l'aiguille.
+
+![repérer la canette](./images/img3_0.jpg)
+
+L'enlever en tirant sur la petite partie charnière.
+
+![tirer dessus](./images/img3_01.jpg)
+
+Enlever la canette de son réceptacle.
+
+![repérer la canette](./images/img3_02.jpg)
+
+Choisir le fil pour la bobine (ici le fil lila), et le passer dans les numéros qui sont dans un cercle.
+
+![passage du fil en haut](./images/img3_1.jpg)
+
+![passage du fil en haut](./images/img3_2.jpg)
+
+![passage du fil en haut](./images/img3_3.jpg)
+
+Faire quelques tours de fil autour de la canette vide, puis caler la canette sur l'axe sur le coté de la machine.
+
+![photo de la canette avec des tours de fil](./images/img3_4.jpg)
+![photo de l'axe](./images/img3_5.jpg)
+
+Coincer le fil dans la petite fente sur le coté.
+
+![photo du fil dans la rainure](./images/img3_6.jpg)
+
+Rabattre le petit coude sur la canette.
+
+![photo du petit coude rabattu](./images/img3_7.jpg)
+
+Sur l'écran de la machine, le menu de la canette apparaît, cliquer sur "Démarrer". L'axe tourne jusqu'au remplissage de la canette.
+
+![photo de l'écran de la machine](./images/img3_8.jpg)
+
+Remettre le petit coude dans sa position de base, couper le fil et enlever la canette, et on peux la remettre dans la machine.
+
+## D. Placer la canette
 
 **Attention : la machine doit être éteinte !**
 
 Placer la canette avec le fil qui tourne dans le sens horaire dans le recepteur à canette.
 
-<!--//photo-->
+Faire sortir le fil sur 5cm, d'abord dans la petite fente du réceptacle.
 
-Caler la canette jusqu'au clic dans l'emplacement, et refermer.
+![photo de l'écran de la machine](./images/img4_1.jpg)
 
-<!--//photo-->
+Faire coulisser le fil, et le faire sortir par le trou le long de la fente.
+
+![photo de l'écran de la machine](./images/img4_3.jpg)
+
+Placer la canette dans son emplacement.
+
+![photo de l'écran de la machine](./images/img4_4.jpg)
+
+Pousser la canette dans son emplacement jusqu'au clic, et refermer.
+
+![photo de l'écran de la machine](./images/img4_5.jpg)
+
+![photo de l'écran de la machine](./images/img4_6.jpg)
 
 
-## D. Tendre ou détendre le fil du dessus
+## E. Tendre ou détendre le fil du dessus
 
 Le fil du dessus est trop lâche si la broderie a l'air trop lâche, ou si il boucle et fait des noeuds en début de broderie (les boucles s'emmêlent > les noeuds cassent le fil > la brodeuse s'arrête)
 Il est trop tendu si on voit trop le fil du dessous sur la broderie, ou il se casse pendant la broderie (la brodeuse s'arrête).
