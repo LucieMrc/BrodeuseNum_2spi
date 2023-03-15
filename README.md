@@ -7,6 +7,15 @@ Pré-requis : être à l'atelier numérique.
 
 Le tissu : moins de 1mm d'épaisseur, attention si élastique ou trop fin.
 
+## Attention
+
+Si la machine s'arrête pendant la broderie en disant que le fil du bas ou du haut est cassé, mais que le fil n'apparaît pas cassé, merci de NE PAS RELANCER LA MACHINE directement. Il faut d'abord checker le dessous du tissu, et vérifier qu'il n'y a pas de noeuds de fils à l'envers du tissu.
+
+Si il y a des noeuds, il faut les découper au maximum avec le découd-vite ou des ciseaux, voir virer tous les points qui ont des noeuds et reprendre la broderie depuis la dernière partie clean.
+
+Si il n'y a pas de noeuds du tout, vérifier que la canette est bien placée, qu'il reste du fil dedans, et si tout est bon, on peux relancer la broderie.
+
+
 ## 1. Placer le tissu sur le cadre
 
 Prendre la taille de cadre adaptée au motif choisi, le cadre par défaut est celui qui permet de broder en 10*10cm, et desserrer la vis.
