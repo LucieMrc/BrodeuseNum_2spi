@@ -18,19 +18,19 @@ Si il n'y a pas de noeuds du tout, vérifier que la canette est bien placée, qu
 ## Sommaire
 
 * Manipulations de base de la machine<br>
-    * [1. Placer le tissu sur le cadre](##1-Placer-le-tissu-sur-le-cadre)<br>
+    * [1. Placer le tissu sur le cadre](#1-Placer-le-tissu-sur-le-cadre)<br>
     * [2. Mettre le cadre dans la machine](#2-Mettre-le-cadre-dans-la-machine)<br>
     * [3. Ajouter un motif en USB](#3-Ajouter-un-motif-en-USB)<br>
     * [4. Lancer la broderie](#4-Lancer-la-broderie)
 * Utiliser Ink/Stitch
-    * [A. Créer un motif .pes avec Inkscape et Ink/Stitch](#A-Créer-un-motif-.pes-avec-Inkscape-et-Ink/Stitch)
+    * [A. Créer un motif .pes avec Inkscape et Ink/Stitch](#A-Créer-un-motif-pes-avec-Inkscape-et-InkStitch)
 * Autres manipulations de la machine<br>
     * [B. Passer le fil](#B-Passer-le-fil)<br>
     * [C. Remplir la canette](#C-Remplir-la-canette)<br>
     * [D. Placer la canette](#D-Placer-la-canette)<br>
     * [E. Tendre ou détendre le fil du dessus](#E-Tendre-ou-détendre-le-fil-du-dessus)<br>
 
-* [Pour aller + loin](#Pour-aller-+-loin)
+* [Pour aller + loin](#pour-aller--loin)
 
 
 ## 1. Placer le tissu sur le cadre
