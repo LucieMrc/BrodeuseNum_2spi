@@ -267,7 +267,7 @@ Choisir le fil pour la bobine (ici le fil lila), et le passer dans les numéros 
 Faire quelques tours de fil autour de la canette vide, puis caler la canette sur l'axe sur le coté de la machine.
 
 ![photo de la canette avec des tours de fil](./images/img3_4.jpg)
-![photo de l'axe](./images/img3_5.jpg)
+![photo de l'axe](./images/img3_51.jpg)
 
 Coincer le fil dans la petite fente sur le coté.
 
