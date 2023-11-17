@@ -1,4 +1,4 @@
-# BrodeuseNum_2spi
+# Brodeuse numérique 2spi
 *[english version](https://github.com/LucieMrc/EmbroideryMachine_sp33d)*
 
 **Ou comment utiliser plus ou moins en autonomie la brodeuse numérique.**
@@ -142,6 +142,8 @@ Pour exporter en fichier .pes, simplement enregistrer le fichier.
 ![Premier cadre'](./images/img3_6.png)
 
 Pour adapter la taille de l'image à la taille de la broderie, mettre la taille en haut en cm ou mm :
+
+![Premier cadre'](./images/capture11.png)
 
 <!--Si besoin, le repasser par PE Design pour adapter la taille.-->
 
