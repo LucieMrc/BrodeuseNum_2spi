@@ -35,6 +35,8 @@ Si il n'y a pas de noeuds du tout, vérifier que la canette est bien placée, qu
 
 ## 1. Placer le tissu sur le cadre
 
+Il est conseillé de TOUJOURS mettre une feuille de stabilisteur (à arracher ou soluble à l'eau) en dessous du tissu à broder dans le cadre.
+
 Prendre la taille de cadre adaptée au motif choisi, le cadre par défaut est celui qui permet de broder en 10*10cm, et desserrer la vis.
 
 ![Premier cadre'](./images/img0_1.jpg)
@@ -200,7 +202,7 @@ Mettre la bobine sur le premier bâton, et passer le fil dans le trou 1.
 
 ![passage du fil dans le premier trou'](./images/img1_1.jpg)
 
-Passer ensuite le fil dans le trou 2, sur le dessus de la machine, et le faire passer dans le petit angle à coté de la petite molette
+Passer ensuite le fil dans le trou 2, sur le dessus de la machine, et le faire passer dans les deux petits angles à coté de la petite molette
 
 ![passage du fil dans le second trou'](./images/img1_2.jpg)
 
